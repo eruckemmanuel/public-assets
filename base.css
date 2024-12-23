@@ -590,11 +590,6 @@ video {
   z-index: 50;
 }
 
-.tw-mx-12 {
-  margin-left: 3rem;
-  margin-right: 3rem;
-}
-
 .tw-mx-2 {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
@@ -685,10 +680,6 @@ video {
 
 .tw-pl-12 {
   padding-left: 3rem;
-}
-
-.tw-pr-20 {
-  padding-right: 5rem;
 }
 
 .tw-pr-12 {
